@@ -1,0 +1,10 @@
+/MpaAbp.Application/bin
+/MpaAbp.Application/obj
+/MpaAbp.Core/bin
+/MpaAbp.Core/obj
+/MpaAbp.EntityFramework/bin
+/MpaAbp.EntityFramework/obj
+/MpaAbp.Web/bin
+/MpaAbp.Web/obj
+/MpaAbp.WebApi/bin
+/MpaAbp.WebApi/obj
